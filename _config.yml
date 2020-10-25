@@ -100,3 +100,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Inicio' }
   - { url: '/about', text: 'Sobre mí' }
+theme: jekyll-theme-midnight
