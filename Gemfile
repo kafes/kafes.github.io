@@ -3,5 +3,6 @@
 source "https://rubygems.org"
 gemspec
 gem "github-pages", group: :jekyll_plugins
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "kramdown-parser-gfm"
 gem "jekyll-remote-theme"
