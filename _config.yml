@@ -99,4 +99,4 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Inicio' }
-  - { url: '/about.html', text: 'Sobre mí' }
+  - { url: '/about', text: 'Sobre mí' }
