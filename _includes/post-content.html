@@ -4,7 +4,17 @@
   <p class="excerpt">{{ post.lead_text }}</p>
 
   {% if post.project_link != empty %}
-  <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>
+  <!-- <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a> -->
+
+  <!-- <a href="{{ post.project_link }}" class="project-link" data-toggle="modal" data-target="#video-player"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a> -->
+
+  <button class="btn btn-default btn-lg video-btn" data-toggle="modal" data-src="{{ post.project_link }}"
+    data-target="#video-player">
+    <i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}
+  </button>
+
+  {% include video-player-modal.html %}
+
   {% endif %}
 
   {% if post.tags != empty %}
