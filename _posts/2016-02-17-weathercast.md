@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Weathercaaaast'
+title: 'Weathercast'
 date: 2016-02-20 15:56:00
 categories: development
 tags: JavaScript AngularJS API Sass
