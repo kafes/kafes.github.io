@@ -21,7 +21,7 @@ TFM programando uno de los juegos de una herramienta terapéutica para pacientes
 ## Ciceron
 A través de técnicas inmersivas de realidad virtual, permite a las personas con síndrome de Asperger entrenar su interacción con otras personas y la exposición oral en público.
 
-{% include youtubePlayer.html id=Wm__z1RygHw %}
+{% include youtubePlayer.html id="Wm__z1RygHw" %}
 
 ##### Tecnologías
 > Unity
@@ -31,7 +31,7 @@ A través de técnicas inmersivas de realidad virtual, permite a las personas co
 ## Demo Capture The Flag
 Práctica realizada durante el máster de RV. Consiste en un juego al estilo captura la bandera.
 
-{% include youtubePlayer.html id=NXGcLqsXPbo %}
+{% include youtubePlayer.html id="NXGcLqsXPbo" %}
 
 ##### Tecnologías
 > Unreal
