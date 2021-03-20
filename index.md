@@ -11,11 +11,11 @@ title: ""
 ## Virtual Transplant Reality (VTR)
 TFM programando uno de los juegos de una herramienta terapéutica para pacientes pediátricos con trasplante hepático. Participando también en refactorización del código antiguo del proyecto.
 
+{% include youtubePlayer.html id=WHgJExB2J64 %}
+
 ##### Tecnologías
 > Unity
 > Oculus Quest
-
-{% include youtubePlayer.html id=WHgJExB2J64 %}
 
 ## Ciceron
 A través de técnicas inmersivas de realidad virtual, permite a las personas con síndrome de Asperger entrenar su interacción con otras personas y la exposición oral en público.
