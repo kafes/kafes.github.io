@@ -12,4 +12,4 @@ asdasd
 
 ## Header 2
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/Wm__z1RygHw" frameborder="0" allowfullscreen></iframe>
+{% include youtubePlayer.html id=page.youtubeId %}
