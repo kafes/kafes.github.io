@@ -4,12 +4,16 @@
 
 layout: default
 title: ""
-youtubeId: Wm__z1RygHw
 ---
 
-# Header 1
-asdasd
+# Algunos de mis trabajos
 
-## Header 2
+## Virtual Transplant Reality (VTR)
+TFM programando uno de los juegos de una herramienta terapéutica para pacientes pediátricos con trasplante hepático. Participando también en refactorización del código antiguo del proyecto.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=WHgJExB2J64 %}
+
+## Ciceron
+Virtual speech coach que ayuda a personas con síndrome de Asperger en su interacción con los demás.
+
+{% include youtubePlayer.html id=Wm__z1RygHw %}
