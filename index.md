@@ -11,7 +11,7 @@ title: ""
 ## Virtual Transplant Reality (VTR)
 TFM programando uno de los juegos de una herramienta terapéutica para pacientes pediátricos con trasplante hepático. Participando también en refactorización del código antiguo del proyecto.
 
-{% include youtubePlayer.html id=WHgJExB2J64 %}
+{% include youtubePlayer.html id="WHgJExB2J64" %}
 
 ##### Tecnologías
 > Unity
