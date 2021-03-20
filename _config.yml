@@ -26,6 +26,10 @@ repository: "kafes/kafes.github.io"
 
 # Build settings
 markdown: kramdown
+
+kramdown:  
+  parse_block_html: true
+  
 theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
