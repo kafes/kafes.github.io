@@ -28,12 +28,57 @@ A través de técnicas inmersivas de realidad virtual, permite a las personas co
 > 
 > Oculus Quest
 
+## Catálogo AR
+Demo de una aplicación en AR que consiste en un catálogo de muebles manipulables. Utiliza Google Cloud Anchors para persistencia.
+
+{% include youtubePlayer.html id="8J_3BfQ4nNs" %}
+{% include youtubePlayer.html id="NXGcLqsXPbo" %}
+
+##### Tecnologías
+> Unity
+> 
+> AR Foundation
+> 
+> Google Cloud Anchor
+
+## Hogan's Alley
+Práctica realizada durante el máster de RV/AR. Consiste en un juego al estilo de Hogan's Alley.
+
+{% include youtubePlayer.html id="3Ua0FKjwJZw" %}
+
+##### Tecnologías
+> Unity
+> 
+> PC
+
 ## Demo Capture The Flag
-Práctica realizada durante el máster de RV. Consiste en un juego al estilo captura la bandera.
+Práctica realizada durante el máster de RV/AR. Consiste en un juego al estilo captura la bandera.
 
 {% include youtubePlayer.html id="NXGcLqsXPbo" %}
 
 ##### Tecnologías
 > Unreal
 > 
+> PC
+>
 > Blueprints
+
+## Experiencia Esclerosis
+Práctica realizada durante el máster de RV/AR. Aplicación en la que el usuario experimenta situaciones que sufre una persona con esclerosis. El propósito era generar empatía y conciencia para el buen trato a los pacientes en los centros de salud.
+
+{% include youtubePlayer.html id="SEHwncwAWR0" %}
+
+##### Tecnologías
+> Unity
+> 
+> Oculus Quest
+
+## Shooter espacial
+Demo de videojuego 2D como proyecto final del curso introductorio al arte, diseño, programación y comercialización de videojuegos 2D "Pixel Caps".
+
+{% include youtubePlayer.html id="Ll6eCXrB0RQ" %}
+
+##### Tecnologías
+> Unity
+> 
+> Android
