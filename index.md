@@ -8,6 +8,18 @@ title: ""
 
 # Algunos de mis trabajos
 
+## Demo Capture The Flag
+Práctica realizada durante el máster de RV/AR. Consiste en un juego al estilo captura la bandera.
+
+{% include youtubePlayer.html id="NXGcLqsXPbo" %}
+
+##### Tecnologías
+> Unreal
+> 
+> PC
+>
+> Blueprints
+
 ## Virtual Transplant Reality (VTR)
 TFM programando uno de los juegos de una herramienta terapéutica para pacientes pediátricos con trasplante hepático. Participando también en refactorización del código antiguo del proyecto.
 
@@ -50,18 +62,6 @@ Práctica realizada durante el máster de RV/AR. Consiste en un juego al estilo 
 > Unity
 > 
 > PC
-
-## Demo Capture The Flag
-Práctica realizada durante el máster de RV/AR. Consiste en un juego al estilo captura la bandera.
-
-{% include youtubePlayer.html id="NXGcLqsXPbo" %}
-
-##### Tecnologías
-> Unreal
-> 
-> PC
->
-> Blueprints
 
 ## Experiencia Esclerosis
 Práctica realizada durante el máster de RV/AR. Aplicación en la que el usuario experimenta situaciones que sufre una persona con esclerosis. El propósito era generar empatía y conciencia para el buen trato a los pacientes en los centros de salud.
