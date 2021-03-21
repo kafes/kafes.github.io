@@ -32,7 +32,7 @@ A través de técnicas inmersivas de realidad virtual, permite a las personas co
 Demo de una aplicación en AR que consiste en un catálogo de muebles manipulables. Utiliza Google Cloud Anchors para persistencia.
 
 {% include youtubePlayer.html id="8J_3BfQ4nNs" %}
-{% include youtubePlayer.html id="NXGcLqsXPbo" %}
+{% include youtubePlayer.html id="i_gQ6EwEMZA" %}
 
 ##### Tecnologías
 > Unity
