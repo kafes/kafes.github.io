@@ -7,6 +7,14 @@ title: ""
 ---
 
 # Algunos de mis trabajos
+## Platando árboles en AR
+Demo de una aplicación en AR que consiste en plantar árboles con el riesgo de que en algún momento aparezca una planta venenosa la cuál tienes que eliminar pronto o perderas todo lo plantado
+{% include youtubePlayer.html id="Ll6eCXrB0RQ" %}
+
+##### Tecnologías
+> Unity
+> 
+> Android
 
 ## Demo Capture The Flag
 Práctica realizada durante el máster de RV/AR. Consiste en un juego al estilo captura la bandera.
