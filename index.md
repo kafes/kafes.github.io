@@ -8,8 +8,8 @@ title: ""
 
 # Algunos de mis trabajos
 ## Platando árboles en AR
-Demo de una aplicación en AR que consiste en plantar árboles con el riesgo de que en algún momento aparezca una planta venenosa la cual tienes que eliminar pronto o pierdes todo lo que has plantado
-{% include youtubePlayer.html id="Ll6eCXrB0RQ" %}
+Demo de una aplicación en AR que consiste en plantar árboles con el riesgo de que en algún momento aparezca una planta venenosa la cuál tienes que eliminar pronto o perderas todo lo plantado
+{% include youtubePlayer.html id="M7LmIy4Rltc" %}
 
 ##### Tecnologías
 > Unity
